@@ -886,7 +886,7 @@ port as a stream of bytes.")
     (description "Event based irc client library.")
     (license license:bsd-3)))
 
-(define-public go-google-golang-org-protobuf
+(define-public go-google-golang-org-protobuf-1.28
   (package
     (name "go-google-golang-org-protobuf")
     (version "1.28.1")
